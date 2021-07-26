@@ -1487,6 +1487,7 @@ extern "C"
 	{
 		BNBinaryView* binaryView;
 		BNFunction* function;
+		BNBasicBlock* block;
 		void* userData;
 	};
 
